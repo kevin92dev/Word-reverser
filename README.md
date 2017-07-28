@@ -1,4 +1,7 @@
-word-reverser
+Word reverser
 =============
 
-A Symfony project created on July 28, 2017, 3:17 pm.
+##Usage
+Call the app/reverse command with as many arguments as you want.
+
+`app:reverser Lorem ipsum dolor sit amet`
